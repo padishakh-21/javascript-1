@@ -1,9 +1,9 @@
 alert("Xush kelibsiz!");
-var questionName = prompt("Ismingiz nima?", "Jamshid");
+var questionName = prompt("Ismingiz nima?", );
 
-var lastName = prompt("Familiyangiz nima?", "Eraliyev");
+var lastName = prompt("Familiyangiz nima?", );
 
-var age = prompt("Tug'ilgan yilingiz", "2003");
+var age = prompt("Tug'ilgan yilingiz", );
 
 var questionRule = prompt("Qayerda ishlaysiz");
 
